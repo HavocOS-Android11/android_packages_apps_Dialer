@@ -20,8 +20,8 @@
         <item quantity="other">%d h</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="one">1 min</item>
-        <item quantity="other">%d mins</item>
+        <item quantity="one">1 m</item>
+        <item quantity="other">%d m</item>
     </plurals>
     <plurals name="second">
         <item quantity="one">1 s</item>
